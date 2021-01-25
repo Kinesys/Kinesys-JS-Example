@@ -1,1 +1,1 @@
-# Kinesys-JS-Example
+# Kinesys-JS-Tutorial
